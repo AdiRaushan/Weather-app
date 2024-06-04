@@ -1,15 +1,15 @@
-Weather App
-This weather app allows users to check the current weather conditions for a specified location. It utilizes an API to fetch weather data and dynamically updates the background based on the weather conditions.
+##Weather App
+###This weather app allows users to check the current weather conditions for a specified location. It utilizes an API to fetch weather data and dynamically updates the background based on the weather conditions.
 
-Features
+#Features
 Weather Data: Fetches real-time weather data from a weather API.
 Dynamic Background: Changes the background image based on the weather conditions.
 Location Search: Allows users to search for weather information by location.
 Responsive Design: Designed to be accessible and usable across various devices.
 Technologies Used
-HTML
-CSS
-JavaScript
+-HTML
+-CSS
+-JavaScript
 Weather API - Insert link to the weather API used.
 Background Image API - Insert link to the background image API used (if any).
 Usage
